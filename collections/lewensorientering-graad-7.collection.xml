@@ -1,3 +1,52 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11028</md:content-id>  <md:title>Lewensorientering Graad 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>a5ef4276-5840-4128-b5c5-8e9d18dcadf9</md:uuid>
-<md:slug>lewensorientering-graad-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m28956"/>                            <col:module document="m28957"/>                            <col:module document="m28958"/>                            <col:module document="m28959"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m28962"/>                            <col:module document="m28963"/>                            <col:module document="m28964"/>                            <col:module document="m28965"/>                            <col:module document="m28966"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m28967"/>                            <col:module document="m28968"/>                            <col:module document="m28969"/>                            <col:module document="m28970"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m28971"/>                            <col:module document="m28972"/>                            <col:module document="m28974"/>                            <col:module document="m28975"/>                            <col:module document="m28976"/>                            <col:module document="m28977"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11028</md:content-id>
+    <md:title>Lewensorientering Graad 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>a5ef4276-5840-4128-b5c5-8e9d18dcadf9</md:uuid>
+    <md:slug>lewensorientering-graad-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m28956"/>
+        <col:module document="m28957"/>
+        <col:module document="m28958"/>
+        <col:module document="m28959"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m28962"/>
+        <col:module document="m28963"/>
+        <col:module document="m28964"/>
+        <col:module document="m28965"/>
+        <col:module document="m28966"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m28967"/>
+        <col:module document="m28968"/>
+        <col:module document="m28969"/>
+        <col:module document="m28970"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m28971"/>
+        <col:module document="m28972"/>
+        <col:module document="m28974"/>
+        <col:module document="m28975"/>
+        <col:module document="m28976"/>
+        <col:module document="m28977"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
